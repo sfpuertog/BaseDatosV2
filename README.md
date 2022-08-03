@@ -1,8 +1,6 @@
 ## Módulo: Introducción a Bases de Datos
 
-<img src="imagenes/bedu.jpg" align="right" height="150" width="150">
 
-<img src="https://cdn.dribbble.com/users/776867/screenshots/6179644/mongogooo.gif" align="right" height="150" width="150" hspace="10">
 <div style="text-align: justify;">
 
 ### Descripción
@@ -27,6 +25,6 @@ principal objetivo conocer los principales conceptos que ahondan las bases de da
  ### Instalaciones
 https://bedu.org/blog/tecnologia/instalacion-base-de-datos/
 
-[`Siguiente`](Sesion-01/Readme.md)
+
 
 </div>
